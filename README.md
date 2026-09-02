@@ -32,14 +32,6 @@ Soy un desarrollador especializado en el **desarrollo multimodal**, combinando i
 
 - 🧠 **[AXIOM](https://github.com/zerogapcode/AXIOM):** AXIOM AI.
 - 💼 **[Career-Ops](https://github.com/zerogapcode/career-ops):** Sistema de búsqueda de empleo impulsado por IA con 14 modos de habilidad.
-- 🎮 **[NES Captive Portal](https://github.com/zerogapcode/nes-captive-portal):** Portal cautivo con emulador NES sobre Wemos D1 mini (ESP8266).
-- 🕹️ **[NES Arcade](https://github.com/zerogapcode/nes-arcade):** Catálogo de cartuchos para el portal cautivo NES Arcade.
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zerogapcode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerogapcode&layout=compact&theme=radical"/>
-</p>

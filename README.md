@@ -1,4 +1,4 @@
-# Hola, soy Genaro Padron 👋
+#Genaro Padron
 ### Crafting the future of  | Multimodal Dev | AI & Computer Vision
 
 [![Website](https://img.shields.io/badge/Website-protonlab.site-blue?style=flat-square&logo=google-chrome)](https://protonlab.site)

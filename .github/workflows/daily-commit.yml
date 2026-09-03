@@ -1,0 +1,26 @@
+name: Daily Contribution Generator
+
+on:
+  schedule:
+    # Se ejecuta todos los días a las 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update daily log
+        run: |
+          echo "Última actualización: $(date)" > .daily_update.txt
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "zerogapcode"
+          git config --global user.email "63930405+zerogapcode@users.noreply.github.com"
+          git add .daily_update.txt
+          git commit -m "chore: automatización de contribución diaria" || echo "No changes to commit"
+          git push

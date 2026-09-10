@@ -9,7 +9,7 @@ Soy un desarrollador especializado en el **desarrollo multimodal**, combinando i
 ### 🚀 Sobre mí
 - 🌍 Desde Venezuela.
 - 💻 Desarrollando sistemas basados en IA (como **AXIOM** y **career-ops**).
-- 🕹️ Experimentando con hardware e IoT (Emuladores NES en ESP8266/Wemos).
+- 🕹️ Experimentando con hardware e IoT.
 - 🤝 Abierto a colaborar en proyectos de Machine Learning, Computer Vision y UI nativa.
 - 📫 Puedes encontrarme en X: [@gapcode](https://x.com/gapcode) o en mi web [protonlab.site](https://protonlab.site).
 

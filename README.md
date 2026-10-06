@@ -4,11 +4,11 @@
 [![Website](https://img.shields.io/badge/Website-protonlab.site-blue?style=flat-square&logo=google-chrome)](https://protonlab.site)
 [![X (Twitter)](https://img.shields.io/badge/X-@gapcode-black?style=flat-square&logo=x)](https://x.com/gapcode)
 
-Soy un desarrollador especializado en el **desarrollo multimodal**, combinando interfaces nativas de usuario (UI) en móviles con el inmenso poder de la **Inteligencia Artificial** y la **visión por computadora**.
+Soy un desarrollador especializado en el **desarrollo multimodal**, combinando interfaces nativas de usuario (UI) en móviles.
 
 ### 🚀 Sobre mí
 - 🌍 Desde Venezuela.
-- 💻 Desarrollando sistemas basados en IA (como **AXIOM** y **career-ops**).
+- 💻 Desarrollando sistemas basados en IA (como **DraiVen** y **Estoquia**).
 - 🕹️ Experimentando con hardware e IoT.
 - 🤝 Abierto a colaborar en proyectos de Machine Learning, Computer Vision y UI nativa.
 - 📫 Puedes encontrarme en X: [@gapcode](https://x.com/gapcode) o en mi web [protonlab.site](https://protonlab.site).
